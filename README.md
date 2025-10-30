@@ -50,7 +50,7 @@
 
 ### 🐍 Contribution Snake (Animation)  
 <p align="center">
-  <img src="https://github.com/aftabfarhanarko/aftabfarhanarko/blob/output/github-contribution-grid-snake.svg" />
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/aftabfarhanarko/aftabfarhanarko/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---

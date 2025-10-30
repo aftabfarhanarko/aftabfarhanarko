@@ -1,7 +1,8 @@
 <!-- Banner / Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3BC3FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Aftab+Farhan;Junior+Frontend+Web+Developer;Learning+React+Tailwind+Node.js;Welcome+To+My+GitHub+Profile+💙" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3BC3FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Aftab+Farhan;Junior+Frontend+Web+Developer;Learning+React+Tailwind+Node.js;Welcome+To+My+GitHub+Profile+💙" />
 </p>
+
 
 
 ---

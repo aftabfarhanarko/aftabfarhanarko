@@ -1,41 +1,63 @@
-<h1 align="center">Hi 👋, I'm Aftab Farhan</h1>
-<h3 align="center">A Passionate Full-Stack Web Developer from Bangladesh</h3>
-
+<!-- Banner / Header -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aftabfarhanarko&label=Profile%20Views&color=blue&style=flat" alt="aftabfarhanarko" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Aftab+Farhan;Full+Stack+Web+Developer;JavaScript+%7C+Node.js+%7C+React+%7C+SQL+%26+MongoDB;Welcome+to+my+GitHub+Profile+💙">
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🔥 I love building real world web applications.
-- 🌱 I’m currently learning **Node.js, Express.js, MongoDB, SQL**
-- 🎯 Goal: Become a **Senior Web Developer**
-- 💬 Ask me about **JavaScript, React, TailwindCSS**
-- 📧 Email: **aftabfarhan324@gmail.com**
+### 👨‍💻 About Me  
+- 🚀 Junior **Frontend Web Developer**
+- 🌱 Currently learning **React.js | Tailwind CSS | Node.js | Express.js | MongoDB | MySQL**
+- 🎯 Goal: Become a **Professional Frontend Web Developer**
+- 💬 Expertise: **JavaScript | React | Tailwind CSS**
+- 📧 Contact: **aftabfarhan324@gmail.com**
+
 
 ---
 
-### 🛠 Skills
+### 🌐 Connect With Me  
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,mysql,github,git,vscode" />
+<a href="https://facebook.com/" target="_blank"><img width="40px" src="https://skillicons.dev/icons?i=facebook" /></a>
+<a href="https://linkedin.com/" target="_blank"><img width="40px" src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:aftabfarhan324@gmail.com"><img width="40px" src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+### 🧠 Skills & Tools  
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,postman,figma" />
+</p>
+
+---
+
+### 📊 GitHub Analytics  
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aftabfarhanarko&show_icons=true&theme=react" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aftabfarhanarko&theme=react" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aftabfarhanarko&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aftabfarhanarko&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🚀 Top Languages:
+### 🚀 Most Used Languages  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aftabfarhanarko&layout=compact&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aftabfarhanarko&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-<h3 align="center">Thanks for Visiting! 🤍</h3>
+### 🐍 Contribution Snake (Animation)  
+<p align="center">
+  <img src="https://github.com/aftabfarhanarko/aftabfarhanarko/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+### 💫 Random Dev Quote  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+<h3 align="center">🔥 Thanks For Visiting 💙</h3>

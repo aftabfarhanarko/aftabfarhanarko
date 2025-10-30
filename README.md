@@ -20,7 +20,7 @@
 ### 🌐 Connect With Me  
 <p align="left">
 <a href="https://facebook.com/" target="_blank"><img width="40px" src="https://skillicons.dev/icons?i=facebook" /></a>
-<a href="https://linkedin.com/" target="_blank"><img width="40px" src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.linkedin.com/in/aftabfarhan/" target="_blank"><img width="40px" src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="mailto:aftabfarhan324@gmail.com"><img width="40px" src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 

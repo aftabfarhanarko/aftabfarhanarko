@@ -47,7 +47,6 @@
 </p>
 
 ---
-
 ### 🐍 Contribution Snake (Animation)
 
 <p align="center">
@@ -55,11 +54,11 @@
     <img
       alt="GitHub Contribution Snake — aftabfarhanarko"
       src="https://raw.githubusercontent.com/aftabfarhanarko/aftabfarhanarko/main/output/github-contribution-grid-snake.svg"
-      style="max-width:100%; height:auto; border-radius:12px; box-shadow: 0 8px 24px rgba(0,0,0,0.12);"
+      style="max-width:100%; height:auto; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.2);"
     />
   </a>
   <br />
-  <sub><i>Hover over the grid on GitHub to see contribution details — generated daily.</i></sub>
+  <sub><i>Hover over the grid to see contribution details — generated automatically.</i></sub>
 </p>
 
 ---

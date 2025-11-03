@@ -46,13 +46,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aftabfarhanarko&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
-### 🐍 Contribution Snake (Animation)
-
-<p align="center">
-  <img alt="GitHub Snake Animation"
-       src="https://raw.githubusercontent.com/aftabfarhanarko/aftabfarhanarko/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 

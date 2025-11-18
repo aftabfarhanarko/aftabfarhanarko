@@ -1,6 +1,5 @@
-<img width="1024" height="497" alt="Gemini_Generated_Image_ck3y65ck3y65ck3y" src="https://github.com/user-attachments/assets/802e91a8-841f-4456-b7e1-a5954f251e78" />
+<!-- <img width="1024" height="497" alt="Gemini_Generated_Image_ck3y65ck3y65ck3y" src="https://github.com/user-attachments/assets/802e91a8-841f-4456-b7e1-a5954f251e78" /> -->
 
-----
 
 <!-- Banner / Header -->
 <p align="center">

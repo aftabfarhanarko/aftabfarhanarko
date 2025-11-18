@@ -1,6 +1,6 @@
-<!-- <img width="1024" height="497" alt="Gemini_Generated_Image_ck3y65ck3y65ck3y" src="https://github.com/user-attachments/assets/802e91a8-841f-4456-b7e1-a5954f251e78" /> -->
+<img width="1024" height="300" alt="image" src="https://github.com/user-attachments/assets/858c52ae-1cae-4be8-beb8-61b825383395" />
 
-
+---
 <!-- Banner / Header -->
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=3BC3FF&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Aftab+Farhan+ARKO;Junior+Frontend+Web+Developer;Learning+React+Tailwind+Node.js;Welcome+To+My+GitHub+Profile+%F0%9F%92%99" />

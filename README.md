@@ -131,12 +131,6 @@ I enjoy building clean, scalable UI and continuously improving my skills through
 
 ---
 
-## 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AftabFarhanArko/AftabFarhanArko/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ## 🏆 GitHub Profile Stats  
 <p align="center">
@@ -144,7 +138,6 @@ I enjoy building clean, scalable UI and continuously improving my skills through
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AftabFarhanArko&theme=radical" height="160" />
 </p>
 
----
 
 
 ---

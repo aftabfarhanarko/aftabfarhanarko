@@ -1,4 +1,4 @@
-<img width="1024" height="300" alt="image" src="https://github.com/user-attachments/assets/858c52ae-1cae-4be8-beb8-61b825383395" />
+<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/1fef3ac2-5f10-4102-96b6-dd0c8685c884" />
 
 ---
 <!-- Banner / Header -->

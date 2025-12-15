@@ -8,20 +8,71 @@
 
 
 
+## 👨‍💻 About Me
+
+I’m a passionate and self-motivated **Junior Frontend Web Developer** who enjoys building modern, responsive, and user-friendly web applications.  
+I love transforming ideas and designs into clean, interactive, and high-performance user interfaces using the latest web technologies.
+
+I believe in **continuous learning**, writing **clean and maintainable code**, and improving user experience through thoughtful **UI/UX design**.
+
 ---
-## 👨‍💻 About Me  
 
-I'm a passionate and dedicated **Junior Frontend Web Developer** who loves turning ideas into smooth, modern, and responsive user experiences.  
-I enjoy building clean, scalable UI and continuously improving my skills through real-world projects and learning.
+## 🔥 What I’m Currently Working On
 
-### 🔥 What I’m Doing Now
-- 🚀 Sharpening my skills in **React.js**, **Tailwind CSS**, **Node.js**, **Express.js**, **MongoDB**, and **MySQL**
-- 📚 Exploring best practices for **frontend performance, responsive design, and UI/UX patterns**
+- 🚀 Deepening my knowledge of **React.js** and **Next.js**
+- 🎨 Building responsive UI using **Tailwind CSS**
+- ⚙️ Learning backend fundamentals with **Node.js** & **Express.js**
+- 🗄️ Working with databases like **MongoDB** and **MySQL**
+- 🧠 Improving skills in **JavaScript (ES6+)**, component architecture, and state management
+- 📚 Practicing real-world projects to understand **frontend performance** and **best practices**
 
-### 🎯 My Goals
+---
+## 🛠️ Technologies & Tools
+
+### 💻 Frontend
+- 🌐 **HTML5**
+- 🎨 **CSS3**
+- ⚡ **JavaScript (ES6+)**
+- ⚛️ **React.js**
+- ⏭️ **Next.js**
+- 💨 **Tailwind CSS**
+
+### ⚙️ Backend (Basic)
+- 🟢 **Node.js**
+- 🚂 **Express.js**
+
+### 🗄️ Database
+- 🍃 **MongoDB**
+- 🐬 **MySQL**
+
+### 🧰 Tools
+- 🔧 **Git**
+- 🐙 **GitHub**
+- 🎨 **Figma**
+- 🧠 **VS Code**
+
+### 🧩 Others
+- 📱 **Responsive Design**
+- 🔌 **REST API Integration**
+- 🎯 **UI/UX Basics**
+
+---
+
+## 🎯 Career Goals
+
 - Become a **Professional Frontend Web Developer**
-- Build visually appealing and highly functional web applications
-- Grow as a full-stack capable developer (MERN)
+- Build **scalable, visually appealing, and high-performance** web applications
+- Grow into a **Full-Stack (MERN) Developer**
+- Work with a collaborative team and contribute to **impactful real-world projects**
+
+---
+
+## 🌱 Mindset
+
+- Always curious to learn new technologies  
+- Strong focus on **clean UI**, **usability**, and **performance**  
+- Believe that **consistency and practice** are the keys to growth
+
 
 ## ❤️ My Favorite Languages
 

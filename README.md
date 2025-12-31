@@ -26,37 +26,7 @@ I believe in **continuous learning**, writing **clean and maintainable code**, a
 - 🧠 Improving skills in **JavaScript (ES6+)**, component architecture, and state management
 - 📚 Practicing real-world projects to understand **frontend performance** and **best practices**
 
----
-## 🛠️ Technologies & Tools
 
-### 💻 Frontend
-- 🌐 **HTML5**
-- 🎨 **CSS3**
-- ⚡ **JavaScript (ES6+)**
-- ⚛️ **React.js**
-- ⏭️ **Next.js**
-- 💨 **Tailwind CSS**
-
-### ⚙️ Backend (Basic)
-- 🟢 **Node.js**
-- 🚂 **Express.js**
-
-### 🗄️ Database
-- 🍃 **MongoDB**
-- 🐬 **MySQL**
-
-### 🧰 Tools
-- 🔧 **Git**
-- 🐙 **GitHub**
-- 🎨 **Figma**
-- 🧠 **VS Code**
-
-### 🧩 Others
-- 📱 **Responsive Design**
-- 🔌 **REST API Integration**
-- 🎯 **UI/UX Basics**
-
----
 
 ## 🎯 Career Goals
 

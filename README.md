@@ -24,7 +24,7 @@ I believe in **continuous learning**, writing **clean and maintainable code**, a
 - ⚙️ Learning backend fundamentals with **Node.js** & **Express.js**
 - 🗄️ Working with databases like **MongoDB** and **MySQL**
 - 🧠 Improving skills in **JavaScript (ES6+)**, component architecture, and state management
-- 📚 Practicing real-world projects to understand **frontend performance** and **best practices**
+- 📚 Practicing real-world projects to understand contributed  **frontend performance** and **best practices**
 
 
 

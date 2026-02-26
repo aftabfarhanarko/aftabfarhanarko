@@ -8,7 +8,7 @@
 
 
 
-## 👨‍💻 About Me Now
+## 👨‍💻 About Me 
 
 I’m a passionate and self-motivated **Junior Frontend Web Developer** who enjoys building modern, responsive, and user-friendly web applications and SEO Friendly Web applications.  
 I love transforming ideas and designs into clean, interactive, and high-performance user interfaces using the latest web technologies.

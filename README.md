@@ -17,7 +17,7 @@ I believe in **continuous learning**, writing **clean and maintainable code**, a
 
 ---
 
-## 🔥 What I’m Currently Working On Now
+## 🔥 What I’m Currently Working
 
 - 🚀 Deepening my knowledge of **React.js** and **Next.js**
 - 🎨 Building responsive UI using **Tailwind CSS**

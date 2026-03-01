@@ -22,7 +22,7 @@ I believe in **continuous learning**, writing **clean and maintainable code**, a
 - 🚀 Deepening my knowledge of **React.js** and **Next.js**
 - 🎨 Building responsive UI using **Tailwind CSS**
 - ⚙️ Learning backend fundamentals with **Node.js** & **Express.js**
-- 🗄️ Working with databases like **MongoDB** and **MySQL**
+- 🗄️ Working with databases like **MongoDB** and **MySQL** and **PostgraSQL**
 - 🧠 Improving skills in **JavaScript (ES6+)**, component architecture, and state management
 - 📚 Practicing real-world projects to understand contributed  **frontend performance** and **best practices**
 

@@ -1,9 +1,4 @@
 <div align="center">
-
-<img src="https://github.com/user-attachments/assets/1fef3ac2-5f10-4102-96b6-dd0c8685c884" width="100%" alt="banner" />
-
-<br/>
-
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=32&pause=1000&color=3BC3FF&center=true&vCenter=true&width=750&lines=Hey+There!+I'm+Aftab+Farhan+ARKO+%F0%9F%91%8B;Full-Stack+Web+Developer+(MERN);React+%7C+TypeScript+%7C+Next.js+%7C+Node.js;Building+Real-World+Client+Projects+%F0%9F%9A%80;Clean+Code+%7C+Scalable+Architecture+%7C+Performance" alt="Typing SVG" />
 
 <br/><br/>

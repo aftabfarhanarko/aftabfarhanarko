@@ -96,8 +96,8 @@ I don't just write code — I **solve problems**. Whether it's a business landin
 |-------|-------------|-------|
 | **Frontend** | React.js, Next.js, TypeScript, Tailwind CSS | ████████████ Advanced |
 | **Backend** | Node.js, Express.js, REST API, JWT Auth | ██████████░░ Proficient |
-| **Database** | MongoDB, MySQL, PostgreSQL | █████████░░░ Proficient |
-| **DevOps/Tools** | Git, GitHub, Firebase, Vercel | ████████░░░░ Comfortable |
+| **Database** | MongoDB, MySQL, PostgreSQL | ████████████ Advanced |
+| **DevOps/Tools** | Git, GitHub, Firebase, Vercel | ████████████ Advanced |
 | **UI/UX** | Figma, Responsive Design, SEO | ████████████ Advanced |
 
 ---

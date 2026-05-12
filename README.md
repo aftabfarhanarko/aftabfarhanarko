@@ -26,7 +26,7 @@ const aftabFarhan = {
   role        : "Full-Stack Web Developer (MERN)",
   location    : "Bangladesh 🇧🇩",
   experience  : "Working on real-world client projects",
-  stack       : ["React", "TypeScript", "Next.js", "Node.js", "Express", "MongoDB"],
+  stack       : ["React", "TypeScript", "Next.js", "Node.js", "Express", "ProstgraSQL", "MongoDB"],
   currentFocus: "Building scalable, production-ready web applications",
   mindset     : "Clean code · Performance-first · User-centric design",
   available   : true, // Open to freelance & full-time opportunities

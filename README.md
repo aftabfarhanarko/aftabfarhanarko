@@ -23,7 +23,7 @@
 ```ts
 const aftabFarhan = {
   name        : "Aftab Farhan ARKO",
-  role        : "Full-Stack Web Developer (MERN)",
+  role        : "Full-Stack Web Developer",
   location    : "Bangladesh 🇧🇩",
   experience  : "Working on real-world client projects",
   stack       : ["React", "TypeScript", "Next.js", "Node.js", "Express", "ProstgraSQL", "MongoDB"],

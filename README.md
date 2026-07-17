@@ -40,17 +40,18 @@ I don't just write code — I **solve problems**. Whether it's a business landin
 > 💡 *"I believe great software is built at the intersection of clean architecture, great UX, and reliable performance."*
 
 ---
+ ## 🚀 What I'm Currently Doing
 
-## 🚀 What I'm Currently Doing
-
-- 🏗️ **Delivering client projects** — full-stack web apps with React, Next.js & Node.js
-- 🔷 **Writing production-grade TypeScript** — type-safe, scalable codebases
-- 🎨 **Crafting responsive UIs** — Tailwind CSS + component-driven architecture
-- 🔗 **Building REST APIs** — Node.js, Express.js with JWT auth & middleware
-- 🗄️ **Managing databases** — MongoDB, MySQL, PostgreSQL
-- ⚡ **Optimizing performance** — lazy loading, SSR/SSG with Next.js, SEO best practices
-- 📦 **Deploying apps** — Vercel, Firebase, cloud platforms
-
+- 👨‍💼 **Leading a Full-Stack Development Team** — managing developers, conducting code reviews, and ensuring high-quality project delivery
+- 🚀 **Building Production-Ready Applications** — architecting scalable web applications using React, Next.js, Nest.js, Node.js & TypeScript
+- 🏗️ **Delivering Real-World Client Projects** — transforming business requirements into reliable, maintainable software solutions
+- 🔷 **Driving Engineering Best Practices** — promoting clean architecture, reusable code, and modern development workflows
+- 🎨 **Designing High-Performance User Experiences** — developing responsive, accessible, and SEO-friendly interfaces
+- 🔐 **Developing Secure Backend Systems** — building REST APIs, authentication, authorization, and scalable server-side architectures
+- 🗄️ **Managing Data Architecture** — working with PostgreSQL, MySQL, MongoDB, and efficient database design
+- 🤝 **Mentoring Developers** — guiding junior engineers, reviewing pull requests, and supporting technical growth across the team
+- ⚡ **Optimizing Performance** — improving application speed, scalability, Core Web Vitals, and overall user experience
+- ☁️ **Deploying & Maintaining Applications** — managing CI/CD workflows and cloud deployments with modern platforms
 ---
 
 ## 🛠️ Full-Stack Tech Arsenal

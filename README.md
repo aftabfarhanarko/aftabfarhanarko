@@ -18,7 +18,7 @@
 
 ---
 
-## 🧑‍💻 About,Me
+## 🧑‍💻 About Me
 
 ```ts
 const aftabFarhan = {

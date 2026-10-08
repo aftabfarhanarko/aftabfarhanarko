@@ -1,142 +1,616 @@
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                    🌊 HERO ANIMATED HEADER WAVE                              -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Aftab%20Farhan%20Arko&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descSize=20&descAlignY=58" alt="Aftab Farhan Arko" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=280&section=header&text=Aftab%20Farhan%20Arko&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Backend%20Software%20Engineer&descSize=24&descAlignY=56&descAlign=50&stroke=3BC3FF&strokeWidth=1" alt="Aftab Farhan Arko" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=3BC3FF&center=true&vCenter=true&width=800&height=45&lines=Full-Stack+Web+Developer+(MERN);React+%7C+Next.js+%7C+NestJS+%7C+TypeScript;Leading+Teams+%26+Shipping+Client+Projects;Clean+Code+%7C+Scalable+Architecture+%7C+Performance" alt="Typing animation" />
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                       ⌨️ ANIMATED TYPING TEXT                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<a href="https://github.com/AftabFarhanArko">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=3BC3FF&center=true&vCenter=true&width=950&height=60&lines=Backend+Software+Engineer+%F0%9F%9A%80;Go+%7C+TypeScript+%7C+Node.js+%7C+NestJS+%E2%9A%A1;I+Build+Systems+That+Power+Applications+%F0%9F%94%A7;Scalable+APIs+%7C+Cloudflare+%7C+PostgreSQL+%F0%9F%8C%90;From+Architecture+to+Production+%F0%9F%8F%97%EF%B8%8F;Team+Lead+%7C+System+Designer+%7C+Problem+Solver+%F0%9F%A7%A0" alt="Typing animation" />
+</a>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/aftabfarhan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:aftabfarhan324@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/AftabFarhanArko"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-<img src="https://img.shields.io/badge/Location-Bangladesh-006A4E?style=flat-square" alt="Location" />
-<img src="https://img.shields.io/badge/Status-Open_to_Work-2EA44F?style=flat-square" alt="Open to Work" />
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                        🔗 SOCIAL BADGES ROW                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-</div>
-
----
-
-## About
-
-I'm a full-stack web developer focused on the **MERN stack** and modern TypeScript tooling. I turn business requirements into fast, scalable and maintainable products — from polished frontends to secure REST APIs and well-designed databases.
-
-Currently I lead a full-stack development team: managing developers, running code reviews, mentoring juniors and making sure client projects ship on time and at a high standard.
-
-> Great software sits at the intersection of clean architecture, thoughtful UX and reliable performance.
-
-```ts
-const aftab = {
-  role: "Full-Stack Web Developer & Team Lead",
-  location: "Bangladesh",
-  stack: ["React", "Next.js", "TypeScript", "Node.js", "NestJS", "PostgreSQL", "MongoDB"],
-  focus: "Scalable, production-ready web applications",
-  principles: ["Clean code", "Performance-first", "User-centric design"],
-  openTo: ["Freelance", "Full-time"],
-};
-```
-
----
-
-## What I Do
-
-- **Team leadership** — managing developers, conducting code reviews and mentoring engineers across the team
-- **Production-grade applications** — architecting scalable apps with React, Next.js, NestJS, Node.js and TypeScript
-- **Backend systems** — REST APIs, authentication and authorization, and scalable server-side architecture
-- **Data architecture** — schema design and optimization with PostgreSQL, MySQL and MongoDB
-- **Frontend performance** — responsive, accessible, SEO-friendly interfaces with strong Core Web Vitals
-- **Delivery & deployment** — CI/CD workflows and cloud deployments on modern platforms
-
----
-
-## Tech Stack
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" alt="Frontend stack" />
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" alt="Backend stack" />
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase" alt="Database stack" />
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel" alt="Tools and platforms" />
-
----
-
-## Services
-
-| Area | What you get |
-|------|--------------|
-| **Web Applications** | End-to-end full-stack development (MERN / Next.js / NestJS) |
-| **Frontend** | Responsive, SEO-optimized, accessible user interfaces |
-| **APIs** | RESTful API design, integration and documentation |
-| **Authentication** | JWT-based and Firebase authentication systems |
-| **Databases** | Schema design, modeling and query optimization |
-| **Quality** | Performance optimization and code review |
-
----
-
-## How I Work
-
-- **Problem first** — I understand the business need before writing code
-- **Built to scale** — architecture decisions are made with growth in mind
-- **Client-focused** — I deliver what the project actually needs, with clear communication and on-time delivery
-- **Always improving** — continuous learning and refinement of my craft
-
----
-
-<!--
-FEATURED PROJECTS — uncomment and fill in when ready.
-
-## Featured Projects
-
-| Project | Description | Tech | Links |
-|---------|-------------|------|-------|
-| **Project Name** | One-line description of what it does and the problem it solves | Next.js, TypeScript, PostgreSQL | [Live](https://example.com) · [Code](https://github.com/AftabFarhanArko/repo) |
-| **Project Name** | One-line description | React, Node.js, MongoDB | [Live](https://example.com) · [Code](https://github.com/AftabFarhanArko/repo) |
-
----
--->
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AftabFarhanArko&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AftabFarhanArko&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AftabFarhanArko&theme=react-dark&hide_border=true&area=true" alt="Contribution activity" />
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AftabFarhanArko/AftabFarhanArko/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AftabFarhanArko/AftabFarhanArko/output/github-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/AftabFarhanArko/AftabFarhanArko/output/github-snake.svg" />
-</picture>
-
-</div>
-
----
-
-## Let's Connect
-
-I'm open to **freelance projects**, **collaborations** and **full-time opportunities**. If you have something in mind, I'd love to hear about it.
-
-<div align="center">
-
-<a href="mailto:aftabfarhan324@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/aftabfarhan/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/aftabfarhan/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:aftabfarhan324@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+&nbsp;
+<a href="https://github.com/AftabFarhanArko">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Location-Bangladesh-006A4E?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Open_to_Work-2EA44F?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to Work" />
 
 <br/><br/>
 
-*If you find my work useful, a ⭐ on my repositories is always appreciated.*
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                       📊 PROFILE METRICS ROW                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer&animation=fadeIn" alt="Footer" />
+<img src="https://komarev.com/ghpvc/?username=AftabFarhanArko&label=Profile%20Views&color=3BC3FF&style=for-the-badge" alt="Profile views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/AftabFarhanArko?label=Followers&style=for-the-badge&color=2EA44F&logo=github" alt="Followers" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/AftabFarhanArko?label=Stars&style=for-the-badge&color=FFD700&logo=github" alt="Stars" />
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-Backend_Engineering-9B59B6?style=for-the-badge&logo=go&logoColor=white" alt="Focus" />
 
-</div>
+<br/><br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                     🎨 ANIMATED GRADIENT DIVIDER                             -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header" alt="divider" />
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                          👋 ABOUT SECTION                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38px" alt="wave" />
+  Backend Software Engineer
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38px" alt="wave" />
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/💡_I_build_the_backend_systems_that_power_real--world_applications.-0f2027?style=for-the-badge" />
+</p>
+
+<p align="center">
+  My current focus is <strong>Go (Golang)</strong> and <strong>TypeScript</strong>, with a strong interest in backend architecture, scalable APIs, distributed systems, database design, cloud infrastructure and production engineering.
+</p>
+
+<p align="center">
+  I enjoy taking a problem from <strong>business requirements → system architecture → API design → implementation → testing → deployment → monitoring</strong>.
+</p>
+
+<p align="center">
+  My goal is not simply to write backend code.
+</p>
+
+<blockquote align="center">
+  <h3>
+    🚀 <strong>I build the systems behind applications — reliable APIs, scalable services,<br/>
+    efficient data layers and production-ready infrastructure.</strong>
+  </h3>
+</blockquote>
+
+<p align="center">
+  I also work as a <strong>Team Lead</strong>, where I coordinate developers, review code, make technical decisions, mentor engineers and help teams deliver production software within deadlines.
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header" alt="divider" />
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                         ⚡ WHAT I BUILD                                      -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="35px" />
+  ⚡ What I Build
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="35px" />
+</h2>
+
+<p align="center">I focus on building backend systems that are:</p>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/🚀_SCALABLE-3BC3FF?style=for-the-badge" /><br/>
+  <sub><b>Growing users, traffic & data</b></sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/🛡️_RELIABLE-2EA44F?style=for-the-badge" /><br/>
+  <sub><b>Predictable & fault-tolerant</b></sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/⚡_PERFORMANT-FF6B6B?style=for-the-badge" /><br/>
+  <sub><b>Optimized latency & throughput</b></sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/🧹_MAINTAINABLE-FFD93D?style=for-the-badge" /><br/>
+  <sub><b>Clean architecture & code</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/🔒_SECURE-9B59B6?style=for-the-badge" /><br/>
+  <sub><b>Auth, validation & API security</b></sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/👁️_OBSERVABLE-1ABC9C?style=for-the-badge" /><br/>
+  <sub><b>Logging & monitoring</b></sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/📦_DEPLOYABLE-E67E22?style=for-the-badge" /><br/>
+  <sub><b>CI/CD & cloud-ready</b></sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/🧪_TESTED-E74C3C?style=for-the-badge" /><br/>
+  <sub><b>Verified & production-ready</b></sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <strong>🎯 I particularly enjoy working on:</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SaaS_Platforms-0f2027?style=for-the-badge&logo=icloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/ERP_Systems-203a43?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/POS_Systems-2c5364?style=for-the-badge&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Business_Apps-0f2027?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-203a43?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend_Services-2c5364?style=for-the-badge&logo=serverless&logoColor=white" />
+  <img src="https://img.shields.io/badge/Real_Time_Systems-0f2027?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-203a43?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Driven_Apps-2c5364?style=for-the-badge&logo=databricks&logoColor=white" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header" alt="divider" />
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                       🛠️ ENGINEERING FOCUS                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px" />
+  🛠️ Engineering Focus
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px" />
+</h2>
+
+<h3 align="center">🔧 Backend Engineering</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Event--Driven-8E44AD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API_Security-E74C3C?style=for-the-badge" />
+</p>
+
+<h3 align="center">🗄️ Databases & Data Architecture</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Schema_Design-2C5364?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Query_Optimization-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Indexing-FFD93D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Transactions-1ABC9C?style=for-the-badge" />
+</p>
+
+<h3 align="center">☁️ Cloud & Infrastructure</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-2EA44F?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
+
+<h3 align="center">🧠 Engineering Practices</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/System_Design-0f2027?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Clean_Architecture-203a43?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SOLID_Principles-2c5364?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Design_Patterns-8E44AD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Code_Review-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Testing-2EA44F?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Debugging-E67E22?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Performance-FFD93D?style=for-the-badge" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header" alt="divider" />
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                     💻 CORE TECHNOLOGY STACK                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32px" />
+  💻 Core Technology Stack
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32px" />
+</h2>
+
+<h3 align="center">🎯 Primary Languages</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,ts&theme=dark&perline=10" alt="Go and TypeScript" />
+</p>
+
+<h3 align="center">🔧 Backend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express&theme=dark&perline=10" alt="Backend technologies" />
+</p>
+
+<h3 align="center">🗄️ Databases</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark&perline=10" alt="Database technologies" />
+</p>
+
+<h3 align="center">☁️ Cloud & Infrastructure</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cloudflare,docker,vercel,linux&theme=dark&perline=10" alt="Cloud and infrastructure" />
+</p>
+
+<h3 align="center">🛠️ Development Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark&perline=10" alt="Development tools" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header" alt="divider" />
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                        🐹 GO / GOLANG FOCUS                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="45px" alt="Go" />
+  Go / Golang Focus
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="45px" alt="Go" />
+</h2>
+
+<p align="center">
+  I'm currently deepening my expertise in <strong>Go</strong> for building high-performance backend services and production systems.
+</p>
+
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+### 🧩 Language & Concurrency
+- ✅ Go fundamentals & idiomatic Go
+- ✅ Goroutines & Channels
+- ✅ Concurrency patterns
+- ✅ Context & cancellation
+- ✅ Interfaces & struct-based design
+- ✅ Error handling
+
+</td>
+<td valign="top" width="50%">
+
+### 🚀 Backend & Production
+- ✅ HTTP servers & REST APIs
+- ✅ Middleware & routing
+- ✅ PostgreSQL integration
+- ✅ Service architecture
+- ✅ Performance optimization
+- ✅ Dockerized Go services
+- ✅ Cloud deployment
+
+</td>
+</tr>
+</table>
+
+<h3 align="center">💡 Why Go?</h3>
+
+<p align="center">
+  Go is particularly interesting to me because it provides a strong foundation for building:
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/High--Performance_APIs-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Concurrent_Services-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Infrastructure_Tools-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud--Native_Backends-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+</p>
+
+<blockquote align="center">
+  🎯 My long-term goal is to become highly proficient in <strong>production-grade Go backend engineering</strong>, not simply learn the language syntax.
+</blockquote>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header" alt="divider" />
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                   ☁️ CLOUDFLARE & MODERN CLOUD                               -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="40px" alt="Cloudflare" />
+  Cloudflare & Modern Cloud
+</h2>
+
+<p align="center">
+  I'm also focusing on <strong>Cloudflare and modern cloud infrastructure</strong> as part of my backend engineering path.
+</p>
+
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+- 🌐 Cloudflare Workers
+- ⚡ Edge computing
+- 🔒 API protection
+- 📡 DNS & CDN
+- 💾 Caching strategies
+
+</td>
+<td valign="top" width="50%">
+
+- 🔄 Reverse proxy architecture
+- ☁️ Serverless workloads
+- 🚀 Edge APIs
+- 📦 Cloud deployment
+- ⚡ Performance optimization
+
+</td>
+</tr>
+</table>
+
+<blockquote align="center">
+  🎯 The goal is to understand not only how to build a backend, but also <strong>how that backend operates efficiently in production</strong>.
+</blockquote>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header" alt="divider" />
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                          🎯 WHAT I DO                                        -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35px" />
+  🎯 What I Do
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35px" />
+</h2>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+  <h3>🏗️ Backend Systems</h3>
+  <p>Design and develop maintainable backend services using <strong>Go and TypeScript</strong>.</p>
+</td>
+<td align="center" width="33%">
+  <h3>🔌 API Engineering</h3>
+  <p>Build clean, secure and scalable REST APIs with proper validation, authentication, authorization and error handling.</p>
+</td>
+<td align="center" width="33%">
+  <h3>🗄️ Database Architecture</h3>
+  <p>Design schemas, relationships, indexes and queries for reliable and efficient data access.</p>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+  <h3>📐 System Design</h3>
+  <p>Translate business requirements into practical backend architecture and technical solutions.</p>
+</td>
+<td align="center" width="33%">
+  <h3>⚡ Performance Engineering</h3>
+  <p>Identify bottlenecks and improve API latency, database performance, throughput and resource utilization.</p>
+</td>
+<td align="center" width="33%">
+  <h3>☁️ Cloud & Deployment</h3>
+  <p>Take applications from development to production through Docker, CI/CD and modern cloud infrastructure.</p>
+</td>
+</tr>
+</table>
+
+<h3 align="center">👥 Team Leadership</h3>
+
+<p align="center">Lead developers through:</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Technical_Planning-0f2027?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Task_Distribution-203a43?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Architecture_Decisions-2c5364?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Code_Reviews-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mentoring-2EA44F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Debugging-E67E22?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Delivery_Management-9B59B6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Engineering_Standards-1ABC9C?style=for-the-badge" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header" alt="divider" />
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                  🧠 HOW I THINK ABOUT SOFTWARE                               -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="40px" />
+  🧠 How I Think About Software
+</h2>
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                     🚀 SOFTWARE LIFECYCLE                    ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║   ┌──────────────────────────┐                               ║
+║   │  📋 Business Requirement │                               ║
+║   └────────────┬─────────────┘                               ║
+║                ▼                                             ║
+║   ┌──────────────────────────┐                               ║
+║   │  📐 System Design        │                               ║
+║   └────────────┬─────────────┘                               ║
+║                ▼                                             ║
+║   ┌──────────────────────────┐                               ║
+║   │  🏗️ Architecture         │                               ║
+║   └────────────┬─────────────┘                               ║
+║                ▼                                             ║
+║   ┌──────────────────────────┐                               ║
+║   │  🗄️ Database Design      │                               ║
+║   └────────────┬─────────────┘                               ║
+║                ▼                                             ║
+║   ┌──────────────────────────┐                               ║
+║   │  🔌 API Design           │                               ║
+║   └────────────┬─────────────┘                               ║
+║                ▼                                             ║
+║   ┌──────────────────────────┐                               ║
+║   │  ⚙️ Implementation       │                               ║
+║   └────────────┬─────────────┘                               ║
+║                ▼                                             ║
+║   ┌──────────────────────────┐                               ║
+║   │  🧪 Testing              │                               ║
+║   └────────────┬─────────────┘                               ║
+║                ▼                                             ║
+║   ┌──────────────────────────┐                               ║
+║   │  👀 Code Review          │                               ║
+║   └────────────┬─────────────┘                               ║
+║                ▼                                             ║
+║   ┌──────────────────────────┐                               ║
+║   │  🔄 CI / CD              │                               ║
+║   └────────────┬─────────────┘                               ║
+║                ▼                                             ║
+║   ┌──────────────────────────┐                               ║
+║   │  ☁️ Cloud Deployment     │                               ║
+║   └────────────┬─────────────┘                               ║
+║                ▼                                             ║
+║   ┌──────────────────────────┐                               ║
+║   │  📊 Monitoring &         │                               ║
+║   │     Optimization         │                               ║
+║   └──────────────────────────┘                               ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+
+</div><p align="center"> I believe backend engineering is more than writing endpoints.<br/> A good backend engineer should understand <strong>the complete lifecycle of a system</strong>. </p><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header" alt="divider" /><!-- ═══════════════════════════════════════════════════════════════════════════ --><!-- 💡 ENGINEERING PHILOSOPHY --><!-- ═══════════════════════════════════════════════════════════════════════════ --><h2 align="center"> <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="40px" /> 💡 Engineering Philosophy </h2><blockquote align="center"> <h3>🎯 Build for the problem, not the technology.</h3> </blockquote><p align="center">I start by understanding:</p><p align="center"> <img src="https://img.shields.io/badge/❓_What_problem_are_we_solving%3F-0f2027?style=for-the-badge" /> </p> <p align="center"> <img src="https://img.shields.io/badge/🏗️_What_architecture_is_appropriate%3F-203a43?style=for-the-badge" /> </p> <p align="center"> <img src="https://img.shields.io/badge/⚙️_How_can_we_build_it_reliably_and_efficiently%3F-2c5364?style=for-the-badge" /> </p><p align="center"> <em>Technology should support the solution — not become the solution itself.</em> </p><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header" alt="divider" /><!-- ═══════════════════════════════════════════════════════════════════════════ --><!-- 👥 TEAM LEADERSHIP --><!-- ═══════════════════════════════════════════════════════════════════════════ --><h2 align="center"> <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="40px" /> 👥 Team Leadership </h2><p align="center"> Alongside backend engineering, I have experience working in a <strong>Team Lead</strong> capacity. </p><table align="center"> <tr> <td valign="top" width="50%">
+✅ Breaking requirements into engineering tasks
+
+✅ Assigning work based on developer strengths
+
+✅ Reviewing pull requests
+
+✅ Maintaining coding standards- ✅ Helping developers debug difficult issues
+
+</td> <td valign="top" width="50%">
+✅ Reviewing architecture decisions
+
+✅ Mentoring junior developers
+
+✅ Coordinating development progress
+
+✅ Managing delivery deadlines
+
+✅ Communicating technical requirements
+
+</td> </tr> </table><blockquote align="center"> <h3>🎯 Give engineers clarity, ownership and the technical support they need to deliver quality software.</h3> </blockquote><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header" alt="divider" /><!-- ═══════════════════════════════════════════════════════════════════════════ --><!-- 🏢 BUSINESS APPLICATION EXPERIENCE --><!-- ═══════════════════════════════════════════════════════════════════════════ --><h2 align="center"> <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="38px" /> 🏢 Business Application Experience </h2><p align="center"> I am particularly interested in backend systems that solve real business problems. </p><p align="center"> <img src="https://img.shields.io/badge/ERP-0f2027?style=for-the-badge&logo=databricks&logoColor=white" /> <img src="https://img.shields.io/badge/POS-203a43?style=for-the-badge&logo=shopify&logoColor=white" /> <img src="https://img.shields.io/badge/SaaS-2c5364?style=for-the-badge&logo=icloud&logoColor=white" /> <img src="https://img.shields.io/badge/CRM-0f2027?style=for-the-badge&logo=salesforce&logoColor=white" /> <img src="https://img.shields.io/badge/Marketplace-203a43?style=for-the-badge&logo=shopify&logoColor=white" /> <img src="https://img.shields.io/badge/Service_Platforms-2c5364?style=for-the-badge&logo=servicenow&logoColor=white" /> <img src="https://img.shields.io/badge/Management_Systems-0f2027?style=for-the-badge" /> <img src="https://img.shields.io/badge/Automation_Platforms-203a43?style=for-the-badge&logo=ansible&logoColor=white" /> </p><p align="center">These systems require more than basic CRUD. They involve:</p><p align="center"> <img src="https://img.shields.io/badge/Complex_Business_Rules-E74C3C?style=for-the-badge" /> <img src="https://img.shields.io/badge/Role--Based_Access_Control-9B59B6?style=for-the-badge" /> <img src="https://img.shields.io/badge/Authentication-2EA44F?style=for-the-badge" /> <img src="https://img.shields.io/badge/Data_Relationships-3BC3FF?style=for-the-badge" /> <img src="https://img.shields.io/badge/Transactions-1ABC9C?style=for-the-badge" /> <img src="https://img.shields.io/badge/Reporting-FFD93D?style=for-the-badge" /> <img src="https://img.shields.io/badge/API_Integrations-FF6B6B?style=for-the-badge" /> <img src="https://img.shields.io/badge/Performance-E67E22?style=for-the-badge" /> <img src="https://img.shields.io/badge/Security-0f2027?style=for-the-badge" /> <img src="https://img.shields.io/badge/Scalability-203a43?style=for-the-badge" /> </p><p align="center"> <strong>🎯 This is the type of engineering problem I enjoy.</strong> </p><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header" alt="divider" /><!-- ═══════════════════════════════════════════════════════════════════════════ --><!-- 📊 SELECTED ENGINEERING AREAS --><!-- ═══════════════════════════════════════════════════════════════════════════ --><h2 align="center"> <img src="https://media.giphy.com/media/W5D1D5mC3m0XC/giphy.gif" width="38px" /> 📊 Selected Engineering Areas </h2><div align="center">
+🔧 Area	🎯 Focus
+🔧 Backend	Go, TypeScript, Node.js, NestJS
+🔌 API	REST, Authentication, Authorization, WebSockets
+🏗️ Architecture	System Design, Clean Architecture, Service Architecture
+🗄️ Database	PostgreSQL, MySQL, MongoDB
+☁️ Cloud	Cloudflare, Vercel
+⚙️ Infrastructure	Docker, Linux, CI/CD
+⚡ Performance	Query Optimization, Caching, API Optimization
+🧪 Engineering	Code Review, Testing, Debugging
+👥 Leadership	Mentoring, Task Planning, Technical Decisions
+</div><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header" alt="divider" /><!-- ═══════════════════════════════════════════════════════════════════════════ --><!-- 📈 GITHUB STATS --><!-- ═══════════════════════════════════════════════════════════════════════════ --><h2 align="center"> <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="38px" /> 📈 GitHub Stats </h2><div align="center"><img height="180" src="https://github-readme-stats.vercel.app/api?username=AftabFarhanArko&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&border_radius=10" alt="GitHub stats" /> &nbsp; <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AftabFarhanArko&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10" alt="Top languages" />
+
+
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=AftabFarhanArko&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+
+
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AftabFarhanArko&theme=react-dark&hide_border=true&area=true&bg_color=0f2027&color=3BC3FF&line=2c5364&point=ffffff&radius=10" alt="Contribution activity" />
+
+
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ --><!-- 🐍 CONTRIBUTION SNAKE --><!-- ═══════════════════════════════════════════════════════════════════════════ --><picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AftabFarhanArko/AftabFarhanArko/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AftabFarhanArko/AftabFarhanArko/output/github-snake.svg" /> <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/AftabFarhanArko/AftabFarhanArko/output/github-snake.svg" width="100%" /> </picture>
+
+
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ --><!-- 🏆 TROPHY SHOWCASE --><!-- ═══════════════════════════════════════════════════════════════════════════ --><img width="100%" src="https://github-profile-trophy.vercel.app/?username=AftabFarhanArko&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" /></div><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header" alt="divider" /><!-- ═══════════════════════════════════════════════════════════════════════════ --><!-- 🚀 CURRENTLY LEARNING & BUILDING --><!-- ═══════════════════════════════════════════════════════════════════════════ --><h2 align="center"> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="38px" /> 🚀 Currently Learning & Building </h2><p align="center"> My current engineering direction is focused on becoming a stronger <strong>Backend Software Engineer</strong>. </p><h3 align="center">🎯 Current Focus</h3><p align="center"> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/➡️-555?style=for-the-badge" /> <img src="https://img.shields.io/badge/Backend_Architecture-0f2027?style=for-the-badge" /> <img src="https://img.shields.io/badge/➡️-555?style=for-the-badge" /> <img src="https://img.shields.io/badge/System_Design-203a43?style=for-the-badge" /> <img src="https://img.shields.io/badge/➡️-555?style=for-the-badge" /> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" /> <img src="https://img.shields.io/badge/➡️-555?style=for-the-badge" /> <img src="https://img.shields.io/badge/Distributed_Systems-2c5364?style=for-the-badge" /> <img src="https://img.shields.io/badge/➡️-555?style=for-the-badge" /> <img src="https://img.shields.io/badge/Performance-FF6B6B?style=for-the-badge" /> <img src="https://img.shields.io/badge/➡️-555?style=for-the-badge" /> <img src="https://img.shields.io/badge/Production_Engineering-2EA44F?style=for-the-badge" /> </p><p align="center"> I'm especially interested in understanding how production systems work under real-world conditions: </p><table align="center"> <tr> <td align="center" width="50%">
+🔥 High traffic
+
+⚡ Concurrent requests
+
+📦 Large datasets
+
+🔄 Background processing
+
+🌐 Distributed services
+
+</td> <td align="center" width="50%">
+💾 Caching strategies
+
+🗄️ Database bottlenecks
+
+📡 Network latency
+
+🛡️ Fault tolerance
+
+☁️ Cloud infrastructure
+
+</td> </tr> </table><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header" alt="divider" /><!-- ═══════════════════════════════════════════════════════════════════════════ --><!-- 🏗️ WHAT I WANT TO BUILD --><!-- ═══════════════════════════════════════════════════════════════════════════ --><h2 align="center"> <img src="https://media.giphy.com/media/xUOwGhOrYP0jP6iAy4/giphy.gif" width="38px" /> 🏗️ What I Want to Build </h2><p align="center"> My long-term goal is to build <strong>production-grade backend systems that power large and complex applications</strong>. </p><p align="center">Not just:</p><div align="center">
+text
+┌──────────┐    ┌──────────┐    ┌──────────┐
+│ Frontend │ ➡️ │   API    │ ➡️ │ Database │
+└──────────┘    └──────────┘    └──────────┘
+</div><p align="center">But systems that can evolve into:</p><div align="center">
+text
+┌─────────────────────────────────────────────────────────────────┐
+│                    🏗️ PRODUCTION ARCHITECTURE                    │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│   ┌──────────────┐                                              │
+│   │   👥 Clients │                                              │
+│   └──────┬───────┘                                              │
+│          ▼                                                      │
+│   ┌──────────────┐                                              │
+│   │ 🌐 Edge / CDN│                                              │
+│   └──────┬───────┘                                              │
+│          ▼                                                      │
+│   ┌──────────────┐                                              │
+│   │ 🚪 API Gateway│                                             │
+│   └──────┬───────┘                                              │
+│          ▼                                                      │
+│   ┌──────────────────┐                                          │
+│   │ ⚙️ Backend Services│                                        │
+│   └────────┬─────────┘                                          │
+│            ▼                                                    │
+│   ┌──────────────────┐                                          │
+│   │ 🧠 Business Logic │                                         │
+│   └────────┬─────────┘                                          │
+│            ▼                                                    │
+│   ┌──────────────────┐                                          │
+│   │ 💾 Cache / Queue  │                                         │
+│   └────────┬─────────┘                                          │
+│            ▼                                                    │
+│   ┌──────────────────┐                                          │
+│   │ 🗄️ Database       │                                         │
+│   └────────┬─────────┘                                          │
+│            ▼                                                    │
+│   ┌──────────────────┐                                          │
+│   │ 📊 Observability  │                                         │
+│   └────────┬─────────┘                                          │
+│            ▼                                                    │
+│   ┌──────────────────┐                                          │
+│   │ ☁️ Cloud Infra    │                                         │
+│   └──────────────────┘                                          │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+</div><blockquote align="center"> 🎯 That is the direction I'm actively working toward. </blockquote><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header" alt="divider" /><!-- ═══════════════════════════════════════════════════════════════════════════ --><!-- 🤝 LET'S CONNECT --><!-- ═══════════════════════════════════════════════════════════════════════════ --><h2 align="center"> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="38px" /> 🤝 Let's Connect </h2><p align="center">I'm open to:</p><p align="center"> <img src="https://img.shields.io/badge/Backend_Engineering-0f2027?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/Software_Engineering-203a43?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Go_Development-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/Full--Time_Opportunities-2EA44F?style=for-the-badge&logo=checkmarx&logoColor=white" /> <img src="https://img.shields.io/badge/Freelance_Projects-FF6B6B?style=for-the-badge&logo=freelancer&logoColor=white" /> <img src="https://img.shields.io/badge/Technical_Collaboration-9B59B6?style=for-the-badge&logo=handshake&logoColor=white" /> </p><p align="center"> If you're building a product that needs reliable backend engineering, scalable APIs or production-ready systems, I'd be happy to connect. </p>
+<div align="center"><a href="mailto:aftabfarhan324@gmail.com"> <img src="https://img.shields.io/badge/📧_Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="48" /> </a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/aftabfarhan/"> <img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="48" /> </a> &nbsp;&nbsp; <a href="https://github.com/AftabFarhanArko"> <img src="https://img.shields.io/badge/⭐_Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="48" /> </a>
+
+
+
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ --><!-- 💬 FOOTER QUOTE --><!-- ═══════════════════════════════════════════════════════════════════════════ --><h3> <em>🚀 Building the backend systems that power applications.</em> </h3>
+<!-- ═══════════════════════════════════════════════════════════════════════════ --><!-- 🌊 ANIMATED FOOTER WAVE --><!-- ═══════════════════════════════════════════════════════════════════════════ --><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=footer&animation=fadeIn&text=Thanks%20for%20visiting!&fontSize=26&fontColor=ffffff&fontAlignY=72&desc=Let's%20build%20something%20great%20together&descSize=16&descAlignY=90" alt="Footer" /></div> ```

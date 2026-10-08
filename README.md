@@ -1,192 +1,142 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=32&pause=1000&color=3BC3FF&center=true&vCenter=true&width=750&lines=Hey+There!+I'm+Aftab+Farhan+ARKO+%F0%9F%91%8B;Full-Stack+Web+Developer+(MERN);React+%7C+TypeScript+%7C+Next.js+%7C+Node.js;Building+Real-World+Client+Projects+%F0%9F%9A%80;Clean+Code+%7C+Scalable+Architecture+%7C+Performance" alt="Typing SVG" />
 
-<br/><br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Aftab%20Farhan%20Arko&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descSize=20&descAlignY=58" alt="Aftab Farhan Arko" />
 
-<a href="https://www.linkedin.com/in/aftabfarhan/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:aftabfarhan324@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>n 
-<a href="https://github.com/AftabFarhanArko">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=AftabFarhanArko&style=for-the-badge&color=3BC3FF&label=PROFILE+VIEWS" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=3BC3FF&center=true&vCenter=true&width=800&height=45&lines=Full-Stack+Web+Developer+(MERN);React+%7C+Next.js+%7C+NestJS+%7C+TypeScript;Leading+Teams+%26+Shipping+Client+Projects;Clean+Code+%7C+Scalable+Architecture+%7C+Performance" alt="Typing animation" />
+
+<br/>
+
+<a href="https://www.linkedin.com/in/aftabfarhan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:aftabfarhan324@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/AftabFarhanArko"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<img src="https://img.shields.io/badge/Location-Bangladesh-006A4E?style=flat-square" alt="Location" />
+<img src="https://img.shields.io/badge/Status-Open_to_Work-2EA44F?style=flat-square" alt="Open to Work" />
 
 </div>
 
 ---
 
-## 🧑‍💻 About,Me
+## About
+
+I'm a full-stack web developer focused on the **MERN stack** and modern TypeScript tooling. I turn business requirements into fast, scalable and maintainable products — from polished frontends to secure REST APIs and well-designed databases.
+
+Currently I lead a full-stack development team: managing developers, running code reviews, mentoring juniors and making sure client projects ship on time and at a high standard.
+
+> Great software sits at the intersection of clean architecture, thoughtful UX and reliable performance.
 
 ```ts
-const aftabFarhan = {
-  name        : "Aftab Farhan ARKO",
-  role        : "Full-Stack Web Developer",
-  location    : "Bangladesh 🇧🇩",
-  experience  : "Working on real-world client projects",
-  stack       : ["React", "TypeScript", "Next.js", "Node.js", "Express", "ProstgraSQL", "MongoDB"],
-  currentFocus: "Building scalable, production-ready web applications",
-  mindset     : "Clean code · Performance-first · User-centric design",
-  available   : true, // Open to freelance & full-time opportunities
+const aftab = {
+  role: "Full-Stack Web Developer & Team Lead",
+  location: "Bangladesh",
+  stack: ["React", "Next.js", "TypeScript", "Node.js", "NestJS", "PostgreSQL", "MongoDB"],
+  focus: "Scalable, production-ready web applications",
+  principles: ["Clean code", "Performance-first", "User-centric design"],
+  openTo: ["Freelance", "Full-time"],
 };
 ```
 
-I'm a **Full-Stack Web Developer** with a strong focus on the **MERN stack**, actively delivering **real-world client projects**. I build everything from pixel-perfect frontends to robust REST APIs — ensuring every product I ship is fast, scalable, and maintainable.
-
-I don't just write code — I **solve problems**. Whether it's a business landing page, a full-featured web app, or a custom dashboard, I make sure the final product exceeds client expectations.
-
-> 💡 *"I believe great software is built at the intersection of clean architecture, great UX, and reliable performance."*
-
----
- ## 🚀 What I'm Currently Doing
-
-- 👨‍💼 **Leading a Full-Stack Development Team** — managing developers, conducting code reviews, and ensuring high-quality project delivery
-- 🚀 **Building Production-Ready Applications** — architecting scalable web applications using React, Next.js, Nest.js, Node.js & TypeScript
-- 🏗️ **Delivering Real-World Client Projects** — transforming business requirements into reliable, maintainable software solutions
-- 🔷 **Driving Engineering Best Practices** — promoting clean architecture, reusable code, and modern development workflows
-- 🎨 **Designing High-Performance User Experiences** — developing responsive, accessible, and SEO-friendly interfaces
-- 🔐 **Developing Secure Backend Systems** — building REST APIs, authentication, authorization, and scalable server-side architectures
-- 🗄️ **Managing Data Architecture** — working with PostgreSQL, MySQL, MongoDB, and efficient database design
-- 🤝 **Mentoring Developers** — guiding junior engineers, reviewing pull requests, and supporting technical growth across the team
-- ⚡ **Optimizing Performance** — improving application speed, scalability, Core Web Vitals, and overall user experience
-- ☁️ **Deploying & Maintaining Applications** — managing CI/CD workflows and cloud deployments with modern platforms
 ---
 
-## 🛠️ Full-Stack Tech Arsenal
+## What I Do
+
+- **Team leadership** — managing developers, conducting code reviews and mentoring engineers across the team
+- **Production-grade applications** — architecting scalable apps with React, Next.js, NestJS, Node.js and TypeScript
+- **Backend systems** — REST APIs, authentication and authorization, and scalable server-side architecture
+- **Data architecture** — schema design and optimization with PostgreSQL, MySQL and MongoDB
+- **Frontend performance** — responsive, accessible, SEO-friendly interfaces with strong Core Web Vitals
+- **Delivery & deployment** — CI/CD workflows and cloud deployments on modern platforms
+
+---
+
+## Tech Stack
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" alt="Frontend stack" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" alt="Backend stack" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase" alt="Database stack" />
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel" alt="Tools and platforms" />
+
+---
+
+## Services
+
+| Area | What you get |
+|------|--------------|
+| **Web Applications** | End-to-end full-stack development (MERN / Next.js / NestJS) |
+| **Frontend** | Responsive, SEO-optimized, accessible user interfaces |
+| **APIs** | RESTful API design, integration and documentation |
+| **Authentication** | JWT-based and Firebase authentication systems |
+| **Databases** | Schema design, modeling and query optimization |
+| **Quality** | Performance optimization and code review |
+
+---
+
+## How I Work
+
+- **Problem first** — I understand the business need before writing code
+- **Built to scale** — architecture decisions are made with growth in mind
+- **Client-focused** — I deliver what the project actually needs, with clear communication and on-time delivery
+- **Always improving** — continuous learning and refinement of my craft
+
+---
+
+<!--
+FEATURED PROJECTS — uncomment and fill in when ready.
+
+## Featured Projects
+
+| Project | Description | Tech | Links |
+|---------|-------------|------|-------|
+| **Project Name** | One-line description of what it does and the problem it solves | Next.js, TypeScript, PostgreSQL | [Live](https://example.com) · [Code](https://github.com/AftabFarhanArko/repo) |
+| **Project Name** | One-line description | React, Node.js, MongoDB | [Live](https://example.com) · [Code](https://github.com/AftabFarhanArko/repo) |
+
+---
+-->
+
+## GitHub Stats
 
 <div align="center">
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AftabFarhanArko&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AftabFarhanArko&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-</div>
-
----
-
-## 📊 Skills Overview
-
-| Layer | Technologies | Level |
-|-------|-------------|-------|
-| **Frontend** | React.js, Next.js, TypeScript, Tailwind CSS | ████████████ Advanced |
-| **Backend** | Node.js, Express.js, REST API, JWT Auth | ██████████░░ Proficient |
-| **Database** | MongoDB, MySQL, PostgreSQL | ████████████ Advanced |
-| **DevOps/Tools** | Git, GitHub, Firebase, Vercel | ████████████ Advanced |
-| **UI/UX** | Figma, Responsive Design, SEO | ████████████ Advanced |
-
----
-
-## 🎯 What I Offer to Clients
-
-```
-✅ Full-Stack Web Application Development (MERN)
-✅ Responsive, SEO-Optimized Frontend Interfaces
-✅ RESTful API Design & Integration
-✅ Authentication Systems (JWT, Firebase Auth)
-✅ Database Design & Management
-✅ Performance Optimization & Code Review
-✅ Clean, Maintainable & Scalable Codebase
-✅ On-time Delivery & Clear Communication
-```
-
----
-
-## 🌱 Developer Mindset
-
-- 🔍 **Problem-solver first** — I understand the business need before writing a single line of code
-- 🧱 **Architecture matters** — I think about scalability from day one
-- 🎯 **Client-focused** — I deliver what clients actually need, not just what they asked for
-- ♻️ **Continuous improvement** — always learning, always refining
-- 🤝 **Collaborative** — I work well with designers, clients, and fellow developers
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AftabFarhanArko&theme=react-dark&hide_border=true&area=true" width="100%" />
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AftabFarhanArko&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AftabFarhanArko&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AftabFarhanArko&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
-
----
-
-## 🌐 Let's Connect
-
-<div align="center">
-
-I'm always open to **freelance projects**, **collaborations**, and **full-time opportunities**.
-If you have a project in mind or just want to connect — let's talk!
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AftabFarhanArko&theme=react-dark&hide_border=true&area=true" alt="Contribution activity" />
 
 <br/>
 
-<a href="mailto:aftabfarhan324@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Send_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/aftabfarhan/" target="_blank">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://facebook.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-<a href="https://instagram.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://youtube.com/" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AftabFarhanArko/AftabFarhanArko/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AftabFarhanArko/AftabFarhanArko/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/AftabFarhanArko/AftabFarhanArko/output/github-snake.svg" />
+</picture>
 
 </div>
 
 ---
 
+## Let's Connect
+
+I'm open to **freelance projects**, **collaborations** and **full-time opportunities**. If you have something in mind, I'd love to hear about it.
+
 <div align="center">
 
-### 💖 Support My Work
+<a href="mailto:aftabfarhan324@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/aftabfarhan/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
-If you find my work valuable, a ⭐ on my repositories goes a long way!
-It motivates me to keep building and sharing.
+<br/><br/>
 
-<br/>
+*If you find my work useful, a ⭐ on my repositories is always appreciated.*
 
-**🔥 Thanks for stopping by — Happy Coding! 💙**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer&animation=fadeIn" alt="Footer" />
 
 </div>

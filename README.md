@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/Location-Bangladesh-006A4E?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+<img src="https://img.shields.io/badge/Location-Mohammadpur,Bangladesh-006A4E?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 &nbsp;
 <img src="https://img.shields.io/badge/Status-Open_to_Work-2EA44F?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to Work" />
 

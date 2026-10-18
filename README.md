@@ -607,73 +607,130 @@
 </h2>
 
 <p align="center">
-  My long-term goal is to build <strong>production-grade backend systems that power large and complex applications</strong>.
+  My long-term goal is to build <strong>production-grade backend systems that power large and complex applications</strong> —<br/>
+  systems that start simple, and are engineered from day one to evolve.
 </p>
 
-<p align="center">Not just:</p>
+<br/>
+
+<!-- ─────────────────────────  1. EVOLUTION PATH  ───────────────────────── -->
+
+<h3 align="center">📈 The Evolution Path</h3>
+
+<p align="center">
+  <em>Every serious system grows through three stages. I aim to design for the last one from the start.</em>
+</p>
 
 <div align="center">
 
-```text
-┌──────────┐     ┌──────────┐     ┌──────────┐
-│ Frontend │ ──▶ │   API    │ ──▶ │ Database │
-└──────────┘     └──────────┘     └──────────┘
+| Stage | Goal | What the system looks like |
+|:---:|:---:|:---|
+| **1 · Foundation** | Make it work | `Frontend → API → Database` |
+| **2 · Growth** | Make it solid | Authentication & RBAC, caching, background jobs, automated testing, CI/CD |
+| **3 · Production-Grade** | Make it scale & survive | Edge/CDN, API gateway, queues, observability, fault tolerance, cloud infrastructure |
+
+</div>
+
+<br/>
+
+<!-- ───────────────────────  2. TARGET ARCHITECTURE  ────────────────────── -->
+
+<h3 align="center">🧱 Target Architecture</h3>
+
+<p align="center">
+  <em>The production architecture I'm actively working toward — organized into four clear layers.</em>
+</p>
+
+<div align="center">
+
+```mermaid
+flowchart TB
+    C["Clients<br/>Web · Mobile · Third-party APIs"]
+
+    subgraph EDGE["EDGE LAYER"]
+        direction LR
+        CDN["CDN & DNS"]
+        WAF["WAF & Rate Limiting"]
+        WRK["Cloudflare Workers"]
+    end
+
+    subgraph APP["APPLICATION LAYER"]
+        direction LR
+        GW["API Gateway<br/>Auth · Routing · Validation"]
+        SVC["Backend Services<br/>Go · TypeScript"]
+        BL["Business Logic<br/>Domain Rules · RBAC"]
+    end
+
+    subgraph DATA["DATA LAYER"]
+        direction LR
+        CACHE["Cache"]
+        QUEUE["Queue &<br/>Background Jobs"]
+        DB[("PostgreSQL")]
+    end
+
+    subgraph OPS["PLATFORM & OPERATIONS"]
+        direction LR
+        OBS["Observability<br/>Logs · Metrics · Traces"]
+        CICD["CI/CD & Docker"]
+        CLOUD["Cloud Infrastructure"]
+    end
+
+    C --> EDGE
+    EDGE --> APP
+    APP --> DATA
+    APP -.-> OPS
+    DATA -.-> OPS
 ```
 
 </div>
 
-<p align="center">But systems that can evolve into:</p>
+<br/>
+
+<!-- ───────────────────────────  3. LAYER BREAKDOWN  ─────────────────────── -->
+
+<h3 align="center">🔍 Layer Breakdown</h3>
 
 <div align="center">
 
-```text
-┌────────────────────────────────────────────────────────┐
-│                 PRODUCTION ARCHITECTURE                │
-├────────────────────────────────────────────────────────┤
-│                                                        │
-│                   ┌──────────────┐                     │
-│                   │   Clients    │                     │
-│                   └──────┬───────┘                     │
-│                          ▼                             │
-│                   ┌──────────────┐                     │
-│                   │  Edge / CDN  │                     │
-│                   └──────┬───────┘                     │
-│                          ▼                             │
-│                   ┌──────────────┐                     │
-│                   │ API Gateway  │                     │
-│                   └──────┬───────┘                     │
-│                          ▼                             │
-│                ┌────────────────────┐                  │
-│                │  Backend Services  │                  │
-│                └─────────┬──────────┘                  │
-│                          ▼                             │
-│                ┌────────────────────┐                  │
-│                │   Business Logic   │                  │
-│                └─────────┬──────────┘                  │
-│                          ▼                             │
-│                ┌────────────────────┐                  │
-│                │    Cache / Queue   │                  │
-│                └─────────┬──────────┘                  │
-│                          ▼                             │
-│                ┌────────────────────┐                  │
-│                │      Database      │                  │
-│                └─────────┬──────────┘                  │
-│                          ▼                             │
-│                ┌────────────────────┐                  │
-│                │    Observability   │                  │
-│                └─────────┬──────────┘                  │
-│                          ▼                             │
-│                ┌────────────────────┐                  │
-│                │    Cloud Infra     │                  │
-│                └────────────────────┘                  │
-│                                                        │
-└────────────────────────────────────────────────────────┘
-```
+| Layer | Responsibility | What I Work With |
+|:---|:---|:---|
+| 🌐 **Edge** | Traffic entry, caching, DDoS & API protection, edge logic | Cloudflare CDN, Workers, DNS |
+| 🚪 **Gateway** | Authentication, routing, rate limiting, request validation | JWT, REST, middleware |
+| ⚙️ **Services** | Business rules, RBAC, transactions, third-party integrations | Go, TypeScript, Node.js, NestJS |
+| 🗄️ **Data** | Persistence, caching, async & background processing | PostgreSQL, MySQL, MongoDB |
+| 👁️ **Observability** | Logging, monitoring, performance insight, debugging in production | Structured logs, metrics, tracing |
+| ☁️ **Infrastructure** | Packaging, delivery pipelines, runtime environments | Docker, GitHub Actions, Linux, Cloudflare |
 
 </div>
+
+<br/>
+
+<!-- ───────────────────────  4. DESIGN PRINCIPLES  ──────────────────────── -->
+
+<h3 align="center">🧭 Design Principles</h3>
+
+<p align="center">
+  <em>The standards I hold every system to — from the first endpoint to production.</em>
+</p>
+
+<div align="center">
+
+| Principle | In Practice |
+|:---|:---|
+| **Separation of concerns** | Clear boundaries between transport, business logic and data access |
+| **Secure by default** | Validated input, enforced authentication, least-privilege authorization |
+| **Fail gracefully** | Timeouts, retries, context cancellation and predictable error handling |
+| **Measure before optimizing** | Profile real bottlenecks instead of guessing, then tune with evidence |
+| **Automate delivery** | Tested, repeatable builds and deployments through CI/CD |
+| **Operate with visibility** | If it runs in production, it must be observable and debuggable |
+
+</div>
+
+<br/>
 
 <blockquote align="center">
-  🎯 That is the direction I'm actively working toward.
+  🎯 <strong>Not just an API that works — a system that scales, survives and can be understood by the team that runs it.</strong><br/>
+  That is the direction I'm actively working toward.
 </blockquote>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header" alt="divider" />
